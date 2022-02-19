@@ -1,4 +1,4 @@
-![BrightCoders Logo](img/logo-bc.png)
+aw![BrightCoders Logo](img/logo-bc.png)
 
 # Kata El Juego de la Vida. 
 ## Iteración 03 Desarrollo Basado en Pruebas
